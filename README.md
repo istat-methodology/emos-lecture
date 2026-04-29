@@ -1,2 +1,2 @@
-# emos-lecture
-This project contains training material for EMOS lecture on AI in Official Statistics
+# semantic-auto-coding
+Repository for automatic coding via semantic search approaches.

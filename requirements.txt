@@ -1,0 +1,4 @@
+scienceplots
+torch
+tqdm
+sentence-transformers
