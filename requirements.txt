@@ -1,4 +1,5 @@
-scienceplots
-torch
-tqdm
+pandas
+numpy
+scikit-learn
 sentence-transformers
+matplotlib

@@ -1,0 +1,501 @@
+query,n_words,true_code
+accessori per mobili,3,31.09.4
+acquisto affitto e gestione di aziende,6,68.20.0
+affittacamere per brevi soggiorni b b,6,55.20.5
+affitto di azienda,3,68.20.0
+agente di commercio di prodotti tessili abbigliamento calzature,8,46.16.0
+agente di commercio moto,4,45.40.1
+agente di commercio servizi energia elettrica,6,35.14.0
+agente di commercio vernici e stucchi,6,46.13.0
+agente rappresentante concimi,3,46.12.0
+agenti e rappresentanti di materiale da costruzione inclusi gli infissi e gli articoli igienico sanitari vetro piano,17,46.13.0
+agenti e rappresentanti di materiale da costruzione inclusi gli infissi e gli articoli igienicosanitari vetro piano,16,46.13.0
+agenzie di concessione degli spazi pubblicitari,6,73.12.0
+alberi di natale,3,01.29.0
+alimentari e bevande dettaglio,4,47.11.4
+allenatori di cavalli,3,93.19.9
+allestimento studio dentistici,3,86.23.0
+allevamento di pollame,3,01.47.0
+allevamento di quaglie,3,01.49.9
+altre attivita di pulizia specializzata di edifici e di impianti e macchinari industriali,13,81.22.0
+altre attiviti consulenza tecnica nca,5,74.90.9
+ambulante a posteggio fisso abbigliamento,5,47.82.0
+ambulante food beverage,3,47.81.0
+amministratore di stabili,3,68.32.0
+amministrazione di condomini e gestione di beni immobili per conto,10,68.32.0
+amministrazione e gestioni beni immobili,5,68.32.0
+ammnistratore di condominio,3,97.00.0
+animali da cortile,3,47.52.4
+area attrezzate campeggio,3,55.30.0
+arti e grafiche,3,18.12.0
+articoli in acciaio inox,4,24.10.0
+associazione culturale ricreativa sociale,4,94.99.2
+associazione dottori agronomi,3,74.90.1
+associazione gruppo volontariato,3,94.99.5
+associazione sportiva istruttore,3,85.51.0
+associazione volontariato radioonica,3,94.99.5
+attivita dei tour operator,4,79.12.0
+attivita delle holding impegnate nelle attivita gestionali holdin,8,70.10.0
+attivita di consulenza agraria nca,5,74.90.1
+attivita di ricerca e sviluppo sperimentale nel campo delle scienze naturali e dellingegneria ad esclusione della ricerca e sviluppo sperimentale nel campo delle biotecnologie scienze naturali ingegneria e della tecnologia scienze codice ateco,33,72.19.0
+attivita di selezione dei materiali,5,38.32.2
+attivitervizi agenzie di viaggio,4,79.11.0
+attivitisioterapia attivitvolta da psicologi,4,86.90.3
+attivitvolta da ingegneri,3,71.12.1
+autovetture nuove e usate,4,45.11.0
+azienda agricola frantoio oleario terzi,5,10.41.1
+bar alimentari tabacchi,3,56.30.0
+bar e altri esercizi simili,5,56.30.0
+bar e gastronomia,3,56.30.0
+bar ristorante tabacchi,3,56.10.1
+barbiere e parrucchiere,3,96.02.0
+biancheria da letto da tavola da bagno e articoli di vestiario,11,77.29.1
+caccia e cattura di animali,5,01.70.0
+casa di riposo anziani residenti,5,87.10.0
+cat artig tipo parrucchiere barbiere,5,96.02.0
+centri di reinserimento sociale per persone,6,87.90.0
+centro estetico e spa,4,96.02.0
+club di tiro,3,93.12.0
+codice ateco istruzione primaria scuola elementare,6,85.20.0
+coltivazione di barbabietole pomodori zucchine e ortaggi in genere,9,01.13.3
+coltivazione di cereali e foraggere,5,01.11.4
+comercio allingrosso di arredamento,4,46.47.1
+commerci al dettaglio di borse e scarpe,7,47.72.1
+commercio a mezzo di apparecchi automatici,6,47.99.2
+commercio acciaio inox,3,24.10.0
+commercio al dettaglio abbigliamento nuovo e usato,7,47.71.1
+commercio al dettaglio abbigliamento per bambino,6,47.71.2
+commercio al dettaglio ambulante di prodotti tessili ed articoli di abbigliamento calzature e pelletteria,14,47.82.0
+commercio al dettaglio ambulante non alimentare,6,47.89.0
+commercio al dettaglio cibo per animali,6,47.76.2
+commercio al dettaglio di abbigliamento e pelletteria,7,47.71.1
+commercio al dettaglio di articoli di caccia e pesca e di articoli sportivi,13,47.64.1
+commercio al dettaglio di biancheria per la persona,8,47.71.3
+commercio al dettaglio di corredo per casa,7,47.51.1
+commercio al dettaglio di farina,5,47.29.9
+commercio al dettaglio di fiori e p,7,47.76.1
+commercio al dettaglio di fiori piante compresi bulbi sementi da giardino,11,47.76.1
+commercio al dettaglio di generi di monopolio e ricevitoria lotto,10,47.26.0
+commercio al dettaglio di giochi e giocattoli compresi quelli elettronici,10,47.65.0
+commercio al dettaglio di indumenti per bambini,7,47.71.2
+commercio al dettaglio di mangimi e accessori per animali da compagnia,11,47.76.2
+commercio al dettaglio di materiale per ottica e f,9,47.78.2
+commercio al dettaglio di materiale per ottica fotografia,8,47.78.2
+commercio al dettaglio di motocicli ciclomotori e parti e accessori moto,11,45.40.1
+commercio al dettaglio di pellet,5,47.78.4
+commercio al dettaglio di pezzi di ricambio per motocicli,9,45.40.2
+commercio al dettaglio di prodotti vari,6,47.78.9
+commercio al dettaglio di protesi acustiche e ausili per ludito,10,47.74.0
+commercio al dettaglio di scarpe e ccessori,7,47.72.1
+commercio al dettaglio elettronico di software,6,47.41.0
+commercio al dettaglio radio e telefono,6,47.42.0
+commercio al dettaglio specializzato non alimentare,6,47.78.9
+commercio al dettaglio su aree pubbliche in forma itinerante di prodotti gastronomici,12,47.81.0
+commercio alimenti ingrosso e dettaglio,5,46.39.2
+commercio all ingrosso di bottoni e di accessori per labbigliamento,10,32.99.2
+commercio all ingrosso di prodotti della pesca congelati surgelati conservati secchi,11,46.38.2
+commercio all ingrosso sottoprodotti macellazione,5,46.77.2
+commercio allingrosso accessori navi,4,46.69.1
+commercio allingrosso articoli dentali,4,46.46.3
+commercio allingrosso carni bianche,4,46.32.1
+commercio allingrosso di apparecchiature per parrucchieri palestre solarium e centri esteticizzature per parrucchieri,13,46.69.3
+commercio allingrosso di articoli per arredo urbano,7,46.73.2
+commercio allingrosso di attrezzature per lagricoltura,6,46.61.0
+commercio allingrosso di auto usate,5,45.11.0
+commercio allingrosso di cacao,4,46.37.0
+commercio allingrosso di colori e vernici,6,46.73.4
+commercio allingrosso di ferramenta di apparecchi e accessori per impianti idraulici,11,46.74.2
+commercio allingrosso di materiale edile in genere,7,46.73.2
+commercio allingrosso di mobili ed arredi,6,46.47.1
+commercio allingrosso di parti e pezzi di ricambi per autovetture,10,45.31.0
+commercio allingrosso di prodotti della pesca congelati surgelati conservati secchi ulteriori specifiche commercio allingrosso di prodotti ittic,17,46.38.2
+commercio allingrosso di prodotti e attrezzature per la pulizia ed igiene personale,12,46.44.3
+commercio allingrosso di rottami e sottoprodotti metallici della lavorazione industriale senza detenzione degli stessi,14,46.77.1
+commercio allingrosso di saponi detersivi e altri prodotti per la pulizia attivita svolta nella ul,15,46.44.3
+commercio allingrosso di veicoli in genere autovetture e motocicli,9,45.11.0
+commercio allingrosso dolciumi,3,46.36.0
+commercio allingrosso elettronico ortofrutticoli,4,46.31.1
+commercio allingrosso fotovoltaico,3,46.69.2
+commercio allingrosso oggettistica varia,4,46.90.0
+commercio allingrosso sottoprodotti macellazione,4,46.77.2
+commercio ambulante di alimenti e bevande,6,47.81.0
+commercio ambulante di oggettistica,4,47.89.0
+commercio ambulante formaggio,3,47.81.0
+commercio attrezzi per sport,4,46.18.9
+commercio auto nuove ed usate,5,45.11.0
+commercio dettaglio di attrezzatura pasticceria,5,47.24.2
+commercio dettaglio giocattoli,3,47.65.0
+commercio dettaglio materiale edili,4,47.52.3
+commercio dettaglio moquette e linoleum,5,47.53.2
+commercio di attrezzature per palestre,5,32.30.0
+commercio di bare ed articoli funerari,6,46.49.9
+commercio di fertilizzanti e di altri prodotti chimici per lagricoltura,10,46.75.0
+commercio di legname,3,46.73.1
+commercio disegnatore grafico,3,74.10.2
+commercio e lavorazione pollame,4,10.12.0
+commercio e produzione abbigliamento,4,14.13.1
+commercio e vendita di carta cartoni,6,46.49.1
+commercio elettronico auto usate,4,45.11.0
+commercio elettronico autovetturemotocicli veicoli industriali,5,45.11.0
+commercio elettronico europeo,3,47.91.1
+commercio elettronico oggettistica varia non alimentare,6,47.91.1
+commercio generi non alimentari,4,46.19.0
+commercio ingrosso attrezzature per ufficio,5,46.66.0
+commercio ingrosso di merceria,4,46.41.2
+commercio ingrosso di olio di girasole,6,46.21.2
+commercio ingrosso e dettaglio parti auto,6,45.31.0
+commercio ingrosso e minuto acque minerali,6,46.34.2
+commercio ingrosso e minuto pitture smalti vernici,7,46.73.4
+commercio ingrosso pannolini,3,46.49.9
+commercio ingrosso patate,3,46.31.1
+commercio ingrosso prodotti chimici per lagricoltura,6,46.75.0
+commercio macchine per gastronomia,4,46.69.9
+commercio oggettistica regalo,3,47.78.3
+commercio olio al dettaglio,4,47.29.9
+commercio online al dettaglio fiori e piante,7,47.76.1
+commercio paglia e fieno macinati,5,46.21.2
+commercio ricambi e accessori per auto e moto,8,45.40.2
+commercio semilavorati metallo,3,46.72.1
+commercio stufa pellet,3,27.52.0
+commercio su aree pubbliche di generi alimentari,7,47.81.0
+compravendita autovetture usate,3,45.11.0
+compravendita immobiliare ed affitti brevi,5,68.31.0
+confezionamento e vendita allingrosso e al dettaglio di abiti da lavoro,11,46.42.1
+consulenta legale tributaria,3,69.10.1
+consulente azienda fotovoltaico,3,74.90.3
+consulenza gestionale e amministrativa,4,70.22.0
+consulenza gestione parassiti,3,70.22.0
+consulenza imprenditoriale e altra consulenza amministrativogestionale,6,70.22.0
+consulenza imprese alberghiere,3,55.10.0
+consulenza industriale e commeciale,4,70.22.0
+consulenza informatica e ingegneristica,4,71.12.1
+consulenza marketing e pubblicitario,4,73.11.0
+consulenza organizzativa spettacolo,3,90.02.0
+consulenza per ristrutturazione edifici,4,41.20.0
+consulenza pubblicitaria e di markeying,5,73.11.0
+consulenza sulla sicurezza alimentare,4,71.20.1
+consulenze tecniche e perizie,4,66.21.0
+corsi di aggiornamento e formazione professionale,6,85.59.2
+corsi di danza sportiva,4,85.52.0
+corsi formazione comunicazione,3,85.59.2
+corsi post laurea,3,85.42.0
+corso cucina on line,4,85.59.2
+corso di cucina in inglese,5,85.59.3
+corso di lingua inglese,4,85.59.3
+costruzione assemblaggio e manutenzione ordinaria di impianti elettronici dal,9,33.20.0
+costruzione cassonetti metallici,3,25.11.0
+costruzione di edifici residenziale,4,41.20.0
+costruzione di edifici residenziali enon residenzial,6,41.20.0
+costruzione di imbarcazioni da diporto e sportive,7,30.12.0
+costruzione di opere di pubblica utilita per lenergia elettrica e le telecomunicazion,12,42.22.0
+costruzione distributori automatici,3,28.29.1
+costruzione e manutenzione di stampi,5,25.73.2
+costruzione macchine da stampa,4,28.99.1
+costruzione ristrutturazione manutenzione di beni immobili propri,7,41.20.0
+creazione sito internet,3,74.10.2
+decoratrice di oggettistica,3,47.78.3
+deodoranti ambiente dettaglio,3,46.18.9
+deposito e parcheggio di camion utilizzati per lattivitrincipale,8,52.21.5
+design e stiling relativo a beni personali e per la casa,11,74.10.1
+dettaglio gas in bombole,4,47.78.4
+dettaglio prodotti religiosi,3,47.78.3
+direzione artistica pubblicitaria,3,90.02.0
+discoteca sala da ballo nigh,5,93.29.1
+disegno ingegneria navale,3,71.12.1
+dispositivo medico veterinario,3,75.00.0
+ditta individuale artigianato edilizia,4,43.39.0
+e commrce frutta secca,4,10.39.0
+edicola cartoleria merceria,3,47.62.1
+educazione cinofila cani,3,96.09.0
+eleborazione dichiarazioni fiscali,3,63.11.1
+elettrodomestici commercio al dettaglio,4,47.54.0
+ente locale lavori pubblici,4,84.11.1
+ervizi di consulenza su hardware software e altre tecnologie dell informazione analisi dei bisogni e dei problemi degli utenti consulenza sulla migliore soluzione pianificazione e progettazione di sistemi,28,62.02.0
+esercizio di studi dentistici,4,86.23.0
+esposizione commercio al dettaglio,4,47.59.1
+fabbricazione artigianale gioielli,3,32.12.1
+fabbricazione cartucce toner,3,28.23.0
+fabbricazione componenti per carri armati,5,30.40.0
+fabbricazione di altri prodotti chimici di base inorganici e fabbricazione di altri prodotti chimici di base organici,17,20.13.0
+fabbricazione di apparecchiature per le reti di distribuzione e il controllo dellelettricita cod reg,14,27.12.0
+fabbricazione di armature per occhiali di qualsiasi tipo montatura in serie di occhiali,13,32.50.5
+fabbricazione di articoli di coltelleria,5,25.71.0
+fabbricazione di auto,3,29.10.0
+fabbricazione di insegne elettriche,4,27.90.0
+fabbricazione di insiemi di cavi cablaggi e analoghi insiemi di cavi o assemblaggi per autoveicoli,15,29.31.0
+fabbricazione di liquori,3,11.01.0
+fabbricazione di macchine per impieghi speciali nca,7,28.99.9
+fabbricazione di schede elettroniche,4,26.12.0
+fabbricazione di strutture metalliche industriali ossature per altiforni impianti di sollevamento e movimentazione ecc,14,25.11.0
+fabbricazione di ventilatori per uso non domestico,7,28.25.0
+fabbricazione e montaggio infissi,4,25.12.1
+fabbricazione macchinari alimentari,3,28.93.0
+fabbricazione pompe e compressori,4,28.13.0
+fabbricazione porte finestre metalliche,4,25.12.1
+fabbricazione protesi ortopediche,3,32.50.3
+fabbricazione vendita di arredo aziendale in legno,7,31.09.1
+fabbricazioni di macchine per la metallurgia,6,28.91.0
+falegname posatore infissi,3,16.23.1
+fiere e convegni,3,82.30.0
+fornitura di servizi in informatica,5,62.09.0
+fornitura di servizi software e consulenza in materia informatica,9,62.02.0
+forno per pane,3,10.71.1
+fotografo vendita foto,3,47.78.2
+gestione attivita magazzino uffici,4,52.10.1
+gestione centro medicina estetica,4,86.22.0
+gestione di immobili inclusa la loro locazione,7,68.20.0
+gestione immobili beni propri,4,68.20.0
+gestione immobili e servizi,4,68.32.0
+gestione immobili immobili,3,68.32.0
+gestione immobili in conto proprio,5,68.20.0
+gestione immobili proprio,3,68.20.0
+gestione immobiliare compreso,3,68.32.0
+gestione merce magazzino,3,52.10.1
+gestione patrimoniale immobili,3,68.32.0
+gestione spazi pubblicitari,3,73.12.0
+giudice di pace treviso,4,84.23.0
+grafica e tattuagi,3,74.10.2
+icerca e sviluppo sperimentale nel campo delle scienze naturali e dellingegneria,11,72.19.0
+il commercio al dettaglio ed all ingrosso di prodotti ed articoli per la casa,14,46.44.3
+il commercio all ingrosso e al dettaglio di alimenti e prodott,11,46.39.2
+industri alimentari bevande e tabacco,5,28.93.0
+industria conserve alimentare,3,10.39.0
+ingrosso abbigliamento produzione prorpia,4,46.42.1
+ingrosso accessori pelletteria,3,46.49.5
+ingrosso carta e cartone,4,46.49.1
+insegnante di informatica,3,85.59.2
+insegnante di tecnica per scuola media,6,85.31.1
+installazione di impianti idraulici di riscaldamento e di condizionamento dell aria,11,43.22.0
+installazione di porte interne,4,43.32.0
+installazione e manutenzione impianti tecnologici speciali,6,43.29.0
+installazione idro termo sanitari,4,43.22.0
+installazione porte interne,3,43.32.0
+installazioni impianti elettrici industriali,4,43.21.0
+intermediari del commercio di imballaggi di carta,7,46.18.9
+intermediari del commerciodi prodotti tessili abbigliamento pellicce calzature e articoli in pelle,12,46.16.0
+intermediari di commercio colori e vernici,6,46.13.0
+intermediaria agenzie di viaggio,4,79.11.0
+intermediario del commercio di prodotti farmaceutici e di cosmetici,9,46.18.3
+intermediario di compravendita di autovetture,5,45.11.0
+intermediario vendita polveri e vernici,5,46.13.0
+intermediazione commercio piante,3,46.11.0
+intrattenimento e animazione,3,93.29.9
+istituti di istruzione statale liceo,5,85.31.2
+istituto superiore tecnico professionale,4,85.32.0
+istruttori scuola guida,3,85.53.0
+istruttrice di nuoto,3,85.51.0
+laboratorio di analisi mewdiche,4,86.90.1
+lattivitvolta fabbricazione di macchine per lindustria delle materie plastiche e della gomma incluse parti e accessori,16,28.96.0
+lavorazione carta e cartone,4,17.12.0
+lavorazione meccanica minuteria,3,25.99.9
+lavorazione oli vegetali,3,10.41.2
+lavorazione tubi e carpenteria metallica,5,25.11.0
+lavorazioni e commercio pelli,4,15.11.0
+lavori di impermeabilizzazione di tetti e coperture,7,43.99.0
+lavori e finitura di edifici,5,43.39.0
+liceo classico linguistico,3,85.31.2
+locazione immobili a terzi,4,68.31.0
+locazione turistica affittacamere,3,55.20.5
+macchine lavorazione vetro,3,28.99.9
+macchine per lavorazione del legno,5,46.62.0
+macchine produzione alimentare,3,28.93.0
+manifattura parti automobili,3,29.32.0
+manufatti in cemento d,4,23.61.0
+manufatti in pelle,3,46.24.1
+manutenzione di reti fognarie,4,37.00.0
+manutenzione ed istallazione di segnaletica stradale no luminosa,8,42.11.0
+manutenzione impianti auto gpl,4,45.20.3
+manutenzione impianti di climatizzazione,4,43.22.0
+manutenzione impianti di refrigerazione,4,33.12.4
+manutenzione ordinaria motocicli,3,45.40.3
+manutenzione programmazione software,3,62.01.0
+manutenzione riparazione ed assistenza tecnica di elettrodomestici,7,95.22.0
+manutenzioni ristrutturazioni edili,3,41.20.0
+maschera anti gas,3,26.60.0
+meccanico moto officina,3,45.40.3
+meccatronica manutenzione e riparazione macchine ed attrezzature agricole,8,33.12.7
+medici di medicina generale,4,86.21.0
+medicina del territorio,3,86.21.0
+mezzi trasporto marittimi,3,77.34.0
+minimercati ed altri esercizi non specializzati,6,47.11.4
+miscelatura di alcolici distillati,4,11.01.0
+moda e design,3,74.10.1
+movimentazione merci relativo ad altri trasporti terrestri,7,52.24.4
+movimento terra scavi,3,43.12.0
+musica strumenti musicali spartiti,4,47.59.6
+negozio articoli per animali,4,47.76.2
+negozio di articoli da pesca,5,47.64.1
+noleggio altre attrezzature sportive,4,77.21.0
+noleggio barche a motore,4,77.21.0
+noleggio di apparecchi elettromedicali,4,77.39.9
+noleggio di autovettura,3,77.11.0
+noleggio di gru e altre attrezzature edili con operatore,9,43.99.0
+noleggio di mezzi di trasporto marittimi,6,77.34.0
+noleggio e vendita software,4,77.33.0
+noleggio natanti in acque interne,5,77.21.0
+ntermediari del commercio di prodotti alimentari bevande e tabacco,9,46.17.0
+nuove costruzioni edifici,3,41.20.0
+ommercio al dettaglio di computer unita periferiche software e attrezzature per ufficio,12,47.41.0
+ommercio allingrosso on line di autovetture,6,47.91.1
+onfezione in serie di abbigliamento esterno,6,14.13.1
+opere idrauliche e fognarie,4,42.21.0
+organizzazione convegni e congrfessi,4,82.30.0
+organizzazione corsi lingua,3,85.59.3
+organizzazioni di convegni e fiere,5,82.30.0
+panificio senza rivendita,3,10.71.1
+personal training studio,3,85.51.0
+pesca in fiumi e laghi,5,03.12.0
+piccole riparazioni sartoriali,3,95.29.0
+pompe a vuoto,3,28.13.0
+posa di infissi,3,43.32.0
+posa in opera arredi e complementi,6,43.32.0
+posa in opera di materiale in cartongesso,7,43.32.0
+posa in opera di serramenti ed infissi interni,8,43.32.0
+posa portoni blindati,3,43.32.0
+praticantato professione forense,3,69.10.1
+prelievo e smaltimento rifiuti pericolosi,5,38.22.0
+procacciatore affari impianti vetrerie,4,46.15.0
+procacciatore daffari di prodotti alimentari e bevande,7,46.17.0
+prodotti tipici artigianato,3,47.78.3
+produttori di divani,3,31.09.3
+produzione artigianale pasta fresca ravioli,5,10.73.0
+produzione di formaggio,3,10.51.2
+produzione di idropulitrici,3,28.29.9
+produzione di marmellata confetture e gelatine,6,10.39.0
+produzione di salotti,3,31.09.3
+produzione di shampoo,3,20.42.0
+produzione di software non connesse,5,62.01.0
+produzione di software non connesso alledizione ulteriori specifiche,8,62.01.0
+produzione di suole ed accessori per calzature,7,15.20.2
+produzione e commercio arredamento,4,31.01.2
+produzione e commercio pasta alimentare secca,6,10.73.0
+produzione e manutenzione estintori,4,28.29.9
+produzione e montaggio mobili in legno,6,31.09.1
+produzione e riparazione apparecchi elettromedicali,5,26.60.0
+produzione e vendita abbigliamento sportivo,5,14.19.2
+produzione e vendita di biancheria per la casa,8,13.92.1
+produzione e vendita pane e derivati,6,10.71.1
+produzione e vendita vestiario,4,14.13.1
+produzione induistriale di abbigliamento,4,14.13.1
+produzione macchine per lavaggio,4,28.94.1
+produzione nastri trasporto,3,13.96.2
+produzione oggettistica da regalo,4,32.99.9
+produzione pasticceria e gelateria,4,10.71.2
+produzione patate fritte,3,10.31.0
+produzione pelletteria conto terzi,4,15.12.0
+produzione personal computers e schede elettroniche in genere,8,26.12.0
+produzione polvere di siero di latte,6,10.51.2
+produzione pompe industriali,3,28.13.0
+produzione prodotti in calcestruzzo,4,23.69.0
+produzione raccordi acciaio inox,4,24.10.0
+produzione restauro mobili e infissi,5,31.09.1
+produzione riparazione manutenzione e progettazione di macchine utensili per lindustria e pezzi di ricambio,14,28.49.0
+produzione sacchetti in plastica,4,17.21.0
+produzione software consulenza informatica,4,62.02.0
+produzione succo di agrumi,4,10.32.0
+produzione tappezzeria autoveicoli,3,29.32.0
+produzioni di cerniere,3,25.72.0
+progettazione di apparecchiature meccaniche,4,71.12.1
+progettazione di automazioni industriali,4,71.12.1
+progettazione di esterni,3,71.11.0
+progettazione e consulenza ingegneria,4,71.12.1
+progettazione e consulenze in ambito architettonico,6,71.11.0
+progettazione e costruzione di quadri elettrici,6,27.12.0
+progettazionedi servizi logistica integrata,4,70.22.0
+progettettazione impianti eolici,3,28.11.2
+pulizie generale edifici,3,81.21.0
+pulizie x uffici,3,81.21.0
+realizzazione di software e consulenza informatica,6,62.02.0
+realizzazione sistemi audiovisivi,3,59.11.0
+realizzazione tappezzeria per auto,4,29.32.0
+restauro opere lignee,3,95.24.0
+ricerca e sviluppo ca po geologia,6,72.19.0
+ricerca e sviluppo sperimentale nel campo medico farmaceutico chimicobiologico,9,72.19.0
+ricerca e sviluppo sperimentale nelle scienze sociali ed umanistiche,9,72.20.0
+riparazione articolo sportivi,3,95.29.0
+riparazione computer e periferiche,4,95.11.0
+riparazione di prodotti elettronici di consumo audio e video,9,95.21.0
+riparazione e manutenzione di apparecchi elettromedicali,6,33.13.0
+ristorazione con somministrazione con preparazione di cibi da asporto,9,56.10.2
+rivendita di beni usati,4,47.79.3
+rivendita giornali riviste,3,47.62.1
+rivendita n di generi di monopoliotabaccheriacon annessa ricevitoria lotto n,10,47.26.0
+rivendita online autovetture,3,45.11.0
+rivendita pezzi di ricambio auto,5,45.32.0
+rivestimento dei metalli,3,25.61.0
+saloni saloni barbieri e parrucchieri,5,96.02.0
+scuola elementare e materna,4,85.20.0
+scuola elementare media,3,85.31.1
+servizi aziende marketing e internazionalizzazione,5,73.20.0
+servizi consulenza marketing statistica,4,73.20.0
+servizi consulenza pubblicitaria,3,73.11.0
+servizi contabili e fiscali,4,69.20.1
+servizi degli istituto di bellezza,5,96.02.0
+servizi dei saloni di barbiere e parrucchiere,7,96.02.0
+servizi di archiviazione documenti,4,91.01.0
+servizi di consulenza aziendale,4,70.22.0
+servizi di consulenza convegni,4,82.30.0
+servizi di consulenza fiscale,4,69.20.1
+servizi di consulenza in materia di amministrazione,7,70.22.0
+servizi di consulenza scolastica e servizi di orientamento scolastico,9,85.60.0
+servizi di consulenza sulla sicurezza ed igiene dei posti di lavoro,11,74.90.2
+servizi di disbrigo pratiche,4,82.99.4
+servizi di formazione del personale,5,85.59.2
+servizi di montaggio e smontaggio mobili,6,43.32.0
+servizi di progettazione di edifici,5,71.11.0
+servizi di progettazione di ingegneria integrata,6,71.12.2
+servizi di salone di parrucchiere,5,96.02.0
+servizi ingegneria integrata e architettura,5,71.12.2
+servizi investigazione privata,3,80.30.0
+servizi legali per lasciti testamentari,5,69.10.1
+servizi rivendita autovetture,3,45.11.0
+servizi socio assistenziali domiciliari,4,88.10.0
+servizi stampa digitale,3,18.12.0
+servizio di corriere,3,53.20.0
+servizio pompe funebri,3,96.03.0
+smantellamento di automobili computer televisori ed altre apparecchiature per ottenere e rivendere parti che sono direttamente riutilizzabili come pezzi di ricambio,21,46.77.1
+societi servizi immobiliari in subappalto,5,68.31.0
+somministrazione ambulante prodotti alimentari,4,56.10.4
+stampa di poster,3,18.12.0
+strutture assistenza per anziani,4,87.10.0
+strutture di assistenza residenziale per anziani e disabili ulteriori specifiche strutture residenziali con assistenza alla vita quotidiana per anzia,19,87.30.0
+studi medici generici convenzionari,4,86.21.0
+studio associato architettura,3,71.11.0
+sviluppo e fornitura software,4,62.01.0
+tabacco e bevande alcoliche distillate,5,11.01.0
+tenuta scritture contabili,3,69.20.1
+trasporto di merci via mare,5,50.20.0
+trattamento e rivestimento metalli,4,25.61.0
+vendere online handmade,3,47.91.1
+vendita al dettaglio di abbiliamento,5,47.71.1
+vendita al dettaglio di condizionatori,5,47.54.0
+vendita al minuto di generi alimentari,6,47.11.4
+vendita al minuto di prodotti e servizi nel campo delle telecomunicazioni in genere,13,47.42.0
+vendita ambulante modernariato,3,47.89.0
+vendita automobili ed officina meccanica,5,45.11.0
+vendita autoveicoli motoveicoli,3,45.11.0
+vendita bombole gas gpl,4,47.78.4
+vendita cibo al dettaglio,4,47.11.4
+vendita computer dettaglio,3,47.41.0
+vendita dettaglio scarpe,3,47.72.1
+vendita di agrumi,3,46.61.0
+vendita di di apparecchi per depurare e filtrare liquidi,9,28.29.9
+vendita di qualsiasi prodotto al dettaglio e all ingrosso,9,46.90.0
+vendita e installazione computer,4,47.41.0
+vendita e lavorazione di marmo,5,23.70.1
+vendita imballaggi alimentari,3,46.17.0
+vendita immobili di terzi,4,68.31.0
+vendita online di articoli per animali non alimentari,8,47.91.1
+vendita online di audiolibri,4,47.91.1
+vendita pannelli fotovoltaici,3,46.69.2
+vendita prodotti a mano online,5,47.91.1
+vendita prodotti tabacco,3,47.26.0
+vendita prodotto via internet,4,47.91.1
+vendita tabacchi con patentino,4,47.26.0
+vendita utensili diamante,3,25.73.1
+vendite al dettaglio auto,4,45.11.0
+venditore ambulante cibo,3,47.81.0
+video e riprese,3,59.11.0
+vino e spumante,3,11.02.2
+visite mediche e cure nel settore della medicina specialistica effettuata da medici specialisti,13,86.22.0
+web vendita spazi pubblicitari,4,73.12.0
