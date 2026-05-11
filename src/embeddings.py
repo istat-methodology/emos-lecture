@@ -35,19 +35,24 @@ def compute_sentence_embeddings(texts, model):
     return model.encode(list(texts), convert_to_numpy=True, show_progress_bar=True)
 
 
-def compute_tfidf_embeddings(query_texts, descriptor_texts):
+def compute_tfidf_embeddings(query_texts, descriptor_texts, tokenizer=None):
     """
     Converts text into simple TF-IDF vectors.
 
     Parameters:
         query_texts: query text strings to classify
         descriptor_texts: descriptor text strings
+        tokenizer: optional function used to split text into tokens
 
     Returns:
         tuple with query vectors and descriptor vectors
     """
 
-    vectorizer = TfidfVectorizer()
+    if tokenizer is None:
+        vectorizer = TfidfVectorizer()
+    else:
+        vectorizer = TfidfVectorizer(tokenizer=tokenizer, token_pattern=None)
+
     all_texts = list(query_texts) + list(descriptor_texts)
     all_vectors = vectorizer.fit_transform(all_texts)
 

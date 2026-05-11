@@ -24,13 +24,14 @@ By the end of the lab, students should understand:
 The notebook follows this sequence:
 
 1. Start from labelled text queries.
-2. Load the target classification descriptors.
-3. Convert texts into numerical representations.
-4. Compute similarity between queries and target code descriptors.
-5. Assign the most similar code.
-6. Evaluate the predictions.
-7. Inspect errors and limitations.
-8. Discuss human-in-the-loop validation.
+2. Explore the labelled data with simple descriptive checks.
+3. Load the target classification descriptors.
+4. Convert texts into numerical representations.
+5. Compute similarity between queries and target code descriptors.
+6. Assign the most similar code.
+7. Evaluate the predictions.
+8. Inspect errors and limitations.
+9. Discuss human-in-the-loop validation.
 
 ## Repository structure
 
@@ -39,11 +40,9 @@ The notebook follows this sequence:
 ├── data/
 │   ├── raw/
 │   │   └── labelled_queries.csv
-│   ├── reference/
-│   │   ├── ateco22_disentangled.csv
+│   ├── classification/
+│   │   ├── ateco22_descriptors.csv
 │   │   └── ateco22_classification.csv
-│   ├── sample/
-│   │   └── labelled_queries_sample.csv
 │   └── README.md
 ├── notebooks/
 │   └── emos_coding_lab.ipynb
@@ -137,9 +136,9 @@ The main labelled dataset is `data/raw/labelled_queries.csv`. It contains:
 - `n_words`: number of words in the query
 - `true_code`: labelled true code, written in dotted ATECO style such as `73.11.0`
 
-The classroom notebook starts from `data/sample/labelled_queries_sample.csv`, a small reproducible subset of the raw labelled data.
+The classroom notebook starts from `data/raw/labelled_queries.csv`, a shareable labelled dataset prepared for the lab.
 
-The target code descriptors come from `data/reference/ateco22_disentangled.csv`. These descriptors are used as the text representation of the target classification.
+The target code descriptors come from `data/classification/ateco22_descriptors.csv`. These descriptors are used as the text representation of the target classification.
 
 ## Teaching principle
 

@@ -26,28 +26,6 @@ def load_labelled_queries(path=None):
     return queries
 
 
-def load_teaching_sample(path=None):
-    """
-    Loads the small labelled query sample used in the notebook.
-
-    Parameters:
-        path: optional path to the teaching sample CSV file
-
-    Returns:
-        DataFrame with query text, query length, and true code
-    """
-
-    if path is None:
-        path = project_root() / "data" / "sample" / "labelled_queries_sample.csv"
-
-    sample = pd.read_csv(path)
-    sample["query"] = sample["query"].astype(str).str.strip()
-    sample["n_words"] = sample["n_words"].astype(int)
-    sample["true_code"] = sample["true_code"].apply(format_ateco_code)
-
-    return sample
-
-
 def load_ateco_descriptors(path=None):
     """
     Loads short textual descriptors for ATECO target codes.
@@ -60,7 +38,7 @@ def load_ateco_descriptors(path=None):
     """
 
     if path is None:
-        path = project_root() / "data" / "reference" / "ateco22_disentangled.csv"
+        path = project_root() / "data" / "classification" / "ateco22_descriptors.csv"
 
     descriptors = pd.read_csv(path)
     descriptors = descriptors.rename(columns={"code": "ateco_code", "text": "descriptor"})
@@ -70,28 +48,23 @@ def load_ateco_descriptors(path=None):
     return descriptors
 
 
-def create_teaching_sample(queries, min_words=3, sample_size=500, random_state=42):
+def load_ateco_classification(path=None):
     """
-    Creates a small reproducible sample for classroom use.
+    Loads the official ATECO classification file.
 
     Parameters:
-        queries: DataFrame returned by load_labelled_queries
-        min_words: minimum number of words in a query
-        sample_size: maximum number of rows to keep
-        random_state: seed used for reproducible sampling
+        path: optional path to the official ATECO classification CSV file
 
     Returns:
-        DataFrame with a manageable set of labelled queries
+        DataFrame with official ATECO codes, titles, hierarchy, and notes
     """
 
-    sample = queries[queries["n_words"] >= min_words].copy()
-    sample["true_code"] = sample["true_code"].apply(format_ateco_code)
+    if path is None:
+        path = project_root() / "data" / "classification" / "ateco22_classification.csv"
 
-    # Duplicated queries are useful in production data, but they make a teaching
-    # notebook harder to read. Here each row is one distinct coding example.
-    sample = sample.drop_duplicates(subset=["query", "true_code"])
+    classification = pd.read_csv(path)
+    classification["CODICE"] = classification["CODICE"].astype(str).str.strip()
+    classification["IT_TITOLO"] = classification["IT_TITOLO"].astype(str).str.strip()
+    classification["GERARCHIA"] = classification["GERARCHIA"].astype(int)
 
-    if len(sample) > sample_size:
-        sample = sample.sample(sample_size, random_state=random_state)
-
-    return sample.sort_values("query").reset_index(drop=True)
+    return classification
